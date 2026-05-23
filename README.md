@@ -22,5 +22,5 @@ O deploy é feito pelo GitHub Actions em `main`, publicando a pasta `dist` no Gi
 Domínio configurado:
 
 ```txt
-lactot.genesi.com.br
+lactot.genesitech.com.br
 ```
